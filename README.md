@@ -328,16 +328,16 @@ Sales and Revenue Analysis/
 │   └── query_3 tren aov.sql
 │
 ├── images/
-│   ├── Preview Table order_items the_look ecommerce .png
-│   ├── Preview Table orders the_look ecommerce.png
-│   └── Preview Table products the_look ecommerce.png
+│   ├── Preview Table order_items the_look ecommerce.jpeg
+│   ├── Preview Table orders the_look ecommerce.jpeg
+│   └── Preview Table products the_look ecommerce.jpeg
 │
 └── dashboard/
-│   └── dashboard.png
+│   └── dashboard.jpeg
 └── Output/
-    └── Output Query 1.png
-    └── Output Query 2.png
-    └── Output Query 3.png
+    └── Output Query 1.jpeg
+    └── Output Query 2.jpeg
+    └── Output Query 3.jpeg
 ```
 
 > The project uses the public TheLook Ecommerce dataset available through Google BigQuery. No private customer transaction data is included in this repository.
@@ -367,7 +367,7 @@ These additional analyses would provide a deeper understanding of **customer beh
 
 ## 👤 Author
 
-[Curriculum Vitae](https://drive.google.com/file/d/1Sf1mfTCJu-IcL2qFh0gElmXqYrTEsl3b/view?usp=sharing) | [Portfolio]([https://xxx](https://public.tableau.com/app/profile/adin4572/vizzes))
+[Curriculum Vitae](https://drive.google.com/file/d/1Sf1mfTCJu-IcL2qFh0gElmXqYrTEsl3b/view?usp=sharing) | [Portfolio](https://public.tableau.com/app/profile/adin4572/vizzes)
 
 **Adient Fir**
 
