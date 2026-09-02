@@ -318,20 +318,26 @@ WHERE o.status = 'Complete'
 ## 📁 Project Structure
 
 ```text
-Monthly-Sales-Performance-Analysis/
+Sales and Revenue Analysis/
 │
 ├── README.md
 │
 ├── sql/
-│   └── monthly_sales_analysis.sql
+│   └── query_1 tren revenue.sql
+│   └── query_2 top kategori.sql
+│   └── query_3 tren aov.sql
 │
 ├── images/
-│   ├── order_items.png
-│   ├── orders.png
-│   └── products.png
+│   ├── Preview Table order_items the_look ecommerce .png
+│   ├── Preview Table orders the_look ecommerce.png
+│   └── Preview Table products the_look ecommerce.png
 │
 └── dashboard/
-    └── dashboard.png
+│   └── dashboard.png
+└── Output/
+    └── Output Query 1.png
+    └── Output Query 2.png
+    └── Output Query 3.png
 ```
 
 > The project uses the public TheLook Ecommerce dataset available through Google BigQuery. No private customer transaction data is included in this repository.
