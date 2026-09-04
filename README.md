@@ -224,17 +224,17 @@ The top-performing brands identified in the analysis were:
 
 | Rank | Brand | Category | Revenue |
 |---:|---|---|---:|
-| 1 | 7 For All Mankind | Jeans | $13,622 |
-| 2 | Carhartt | Outerwear & Coats | $12,533 |
-| 3 | Joe's Jeans | Jeans | $10,852 |
+| 1 | 7 For All Mankind | Jeans | $14,413 |
+| 2 | True Religion | Jeans | $14,285 |
+| 3 | Carhartt | Outerwear & Coats | $11,318 |
 
-**7 For All Mankind** generated the highest revenue among the analyzed brands, followed by **Carhartt** and **Joe's Jeans**.
+**7 For All Mankind** generated the highest revenue among the analyzed brands, followed by **True Religion** and **Carhartt**.
 
 ---
 
 ### 🏊 High-Volume, Lower-Ticket Brand
 
-**Speedo** recorded the highest order volume with **137 orders**.
+**Speedo** recorded the highest order volume with **125 orders**.
 
 Despite generating lower revenue per item than some of the top-revenue brands, its high order volume indicates a **high-frequency, lower-ticket purchase pattern**.
 
