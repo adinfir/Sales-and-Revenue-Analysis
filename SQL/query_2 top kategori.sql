@@ -3,7 +3,7 @@ SELECT
   p.category,
   COALESCE(p.brand, 'Unknown') AS brand,
   COUNT(DISTINCT o.order_id) AS total_order,
-  SUM(o.num_of_item) as total_item,
+  COUNT(oi.product_id) AS total_item,
   ROUND(SUM(oi.sale_price),2) as revenue
 FROM bigquery-public-data.thelook_ecommerce.orders o
 JOIN bigquery-public-data.thelook_ecommerce.order_items oi
